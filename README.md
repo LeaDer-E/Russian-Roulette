@@ -25,7 +25,7 @@ Welcome to Computer Russian Roulette – a high-stakes simulation game that brin
 - **RR-Real.py**  
   **SEVERE WARNING:** This is the real deletion script. It attempts to delete a set of critical files and directories based on the operating system using Python's `os.remove` function. Running this script may lead to permanent data loss and system corruption.
 
-  > **Warning:** This script is for educational purposes only. **Do not run it on any real system.** It is strongly recommended to place this script in a separate folder within the repository along with its own README file that reiterates this warning.
+  > **Warning:** This script is for educational purposes only. **Do not run it on any real system.** the place of this script in a separate folder within the repository along with its own README file that reiterates this warning.
 
 ---
 
