@@ -114,3 +114,6 @@ The **RR-Real.py** script is designed to delete a set of system-critical files a
 - **Purpose:**  
   All scripts are designed for educational and entertainment purposes. Read and understand the instructions and warnings before executing any script.
 
+## Screenshots:
+![image](https://github.com/user-attachments/assets/1c6547d6-186b-44e9-9f2e-eaf6641f2d2c)
+![image](https://github.com/user-attachments/assets/ef8b5efb-681d-4169-a108-2ec4454932a6)
